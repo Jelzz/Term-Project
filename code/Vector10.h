@@ -44,6 +44,8 @@ private:
   int arr[10];
   // you can add add more private member variables and member functions here if
   // you need
+  int arrSize = 10;
+  int arrUsed = 0;
 };
 
 #endif // VECTOR10_H__
